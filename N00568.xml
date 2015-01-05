@@ -109,8 +109,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:0FAA044AAFEB45E0:000697_0000_0FA9A17CC0FC5990"/>
-            <pb facs="tcp:0FAA044AAFEB45E0:000697_0001_0FA9A17D7A4C1A50"/>
+            <pb facs="unknown:000697_0000_0FA9A17CC0FC5990"/>
+            <pb facs="unknown:000697_0001_0FA9A17D7A4C1A50"/>
             <p>ACTS AND LAWS, Passed by the Great and General Court or Assembly of Their Majesties Province of the Massachusetts-Bay, in NEW-ENGLAND.</p>
             <p>Begun at <hi>Boston,</hi> the Thirtieth Day of <hi>MAY,</hi> 1694. And Continued by Adjournments unto <hi>Tuesday</hi> the Sixteenth Day of <hi>October</hi> following: Being the Third Sessions.</p>
             <p>
@@ -121,7 +121,7 @@
       </front>
       <body>
          <div type="act">
-            <pb n="87" facs="tcp:0FAA044AAFEB45E0:000697_0002_0FA9A17E41126618"/>
+            <pb n="87" facs="unknown:000697_0002_0FA9A17E41126618"/>
             <head>
                <hi>Anno Regni Regis et Reginae,</hi> Gulielmi <hi>et</hi> Mariae, <hi>Sexto.</hi>
             </head>
@@ -132,7 +132,7 @@
             </p>
             <p>
                <hi>And whereas</hi> by one Act of the General Court, Intituled, <hi>An Act, for the Regulating of Townships &amp;c.</hi> Amongst other things, <hi>It is E<g ref="char:EOLhyphen"/>nacted,</hi> That the Proprietors of the undivided or Common Lands within each Town or Precinct in this Province, where the same have been heretofore Stated, each ones Proportion being known, shall and hereby are Impowred, to Order, Improve or divide in such way and manner, as shall be concluded and agreed upon by the Major part of the Interested. And the Proprietors of all undivided or Common Lands not Stated and Proportioned as aforesaid, shall and hereby are Impowered to manage, Improve, Divide and Dispose of
-<pb n="88" facs="tcp:0FAA044AAFEB45E0:000697_0003_0FA9A17EF427E208"/>
+<pb n="88" facs="unknown:000697_0003_0FA9A17EF427E208"/>
 the same, as hath been or shall be concluded and agreed on by the Major part of such Proprietors. <hi>Now for the better Enabling the said Persons, Towns, Villages, Trustees for Schooles and Proprietors aforesaid, to manage, maintain, Recover and Defend their Grants, Lands, Interests, and 
 Estates.</hi>
             </p>
@@ -152,7 +152,7 @@ Estates.</hi>
                </note> to leave a Writt or Summons with their Clerk or other Principal Inhabitant or Proprietor (briefly declaring the Case) fourteen dayes before the Sitting of the Court, where the Case is to be heard; as in other Actions is Provided.</p>
          </div>
          <div type="act">
-            <pb n="89" facs="tcp:0FAA044AAFEB45E0:000697_0004_0FA9A17FCB4519F0"/>
+            <pb n="89" facs="unknown:000697_0004_0FA9A17FCB4519F0"/>
             <head>AN ACT, For Regulating Ferrys.</head>
             <p>T<hi>O the intent that all Ferrys within this Province be duely kept, and constantly attended for the ends whereunto they are Appointed.</hi>
             </p>
@@ -175,7 +175,7 @@ Estates.</hi>
                   </gap>
                </hi> and towards the support of the Government,</p>
             <p>
-               <pb n="90" facs="tcp:0FAA044AAFEB45E0:000697_0005_0FA9A18074AA8758"/>
+               <pb n="90" facs="unknown:000697_0005_0FA9A18074AA8758"/>
                <hi>And</hi> that Boats be constantly kept on either side of the water at <hi>Charlestown</hi> Ferry, for the more speedy Transportation of Passengers, the Ferry men on each side to have a seperate Interest; and that the Ferry be not from hence forth Leased out otherwise.<note place="margin">
                   <gap reason="illegible: indecipherable" extent="1 span">
                      <desc>〈…〉</desc>
@@ -193,7 +193,7 @@ Estates.</hi>
             <p>That hence-forth the said, Tract of Land as above described, and Bounded by the Townships of <hi>Taunton</hi> and <hi>Rehoboth</hi> (no ways to intrench upon either of their Rights) be and shall be a Township, and called by the name of <hi>Attleborough;</hi> and shall have and enjoy all such Im<g ref="char:EOLhyphen"/>munities, Priviledges and Powers, as generally other Towns within this Province have and do by Law Enjoy. <hi>Provided</hi>that it be not in Prejudice of any former Grant. <hi>Provided</hi> also that the Inhabitants of said Place do continue under the Power and directions of the Select men, Assessors and Constables of <hi>Rehoboth</hi> (whereto they were formerly annexed) as well referring unto any Assessments and Arrears thereof, as all other things proper to the duty of Select men, Assessors and Constables respectively, until they are Supplyed with such Officers among themselves, according to the directions in the Law is that case made and Provided.</p>
          </div>
          <div type="act">
-            <pb n="91" facs="tcp:0FAA044AAFEB45E0:000697_0006_0FA9A182BA3D9B60"/>
+            <pb n="91" facs="unknown:000697_0006_0FA9A182BA3D9B60"/>
             <head>AN ACT In further Addition to the Act for Esta<g ref="char:EOLhyphen"/>blishing of Judicatories and Courts of Justice within this Province.</head>
             <p>W<hi>HEREAS by the said Act amongst other things therein Contained, It is granted, That it shall be in the Liberty of the party Cast in any of the Inferiour Courts to Appeal from the Verdict and Judgment there given unto the next Superiour Court, to be held within or for the same County, the Case there to be tryed to a final Issue; Upon Experience of sundry Inconveniences arising by so Conclusive a Determination.</hi>
             </p>
@@ -220,7 +220,7 @@ Estates.</hi>
                </note> any Law usage or custome to the contrary notwithstanding.</p>
          </div>
          <div type="act">
-            <pb n="92" facs="tcp:0FAA044AAFEB45E0:000697_0007_0FA9A183A2DFE310"/>
+            <pb n="92" facs="unknown:000697_0007_0FA9A183A2DFE310"/>
             <head>AN ACT For Payment of the Province Debts.</head>
             <p>W<hi>HEREAS this Province is indebted to sundry Persons Con<g ref="char:EOLhyphen"/>siderable Sums of Money taken up upon Loan at Interest: For the Payment and Discharge of which Debts, and to no other end, until the <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -360,7 +360,7 @@ Estates.</hi>
                      <cell>00</cell>
                      <cell>00</cell>
                      <cell>
-                        <pb n="93" facs="tcp:0FAA044AAFEB45E0:000697_0008_0FA9A18444475640"/>
+                        <pb n="93" facs="unknown:000697_0008_0FA9A18444475640"/>
                         <hi>Almsbury,</hi> Fifteen Pounds.</cell>
                      <cell>15</cell>
                      <cell>00</cell>
@@ -690,7 +690,7 @@ Estates.</hi>
                      <cell>00</cell>
                      <cell>00</cell>
                      <cell>
-                        <pb n="94" facs="tcp:0FAA044AAFEB45E0:000697_0009_0FA9A184F2E626C0"/>
+                        <pb n="94" facs="unknown:000697_0009_0FA9A184F2E626C0"/>
                         <hi>Eastham</hi> Forty four Pounds.</cell>
                      <cell>44</cell>
                      <cell>00</cell>
@@ -884,7 +884,7 @@ Estates.</hi>
                   </hi>
                </note> directed unto the Constables or Collectors of the several Towns and Precincts aforesaid, requiring them to Collect and gather the said Assessment, and pay in the same unto himself his Successor or order, at or before the last day of <hi>June</hi> thence next ensuing, by which time they are to make up and issue their Accompts of the same.</p>
             <p>
-               <pb n="95" facs="tcp:0FAA044AAFEB45E0:000697_0010_0FA9A185C7040D10"/>
+               <pb n="95" facs="unknown:000697_0010_0FA9A185C7040D10"/>
                <hi>And it is further Enacted by the Authority aforesaid.</hi>
             </p>
             <p>That the Treasurer, Select-men or Assessors, Constables and Collectors in the several Towns and Precincts,<note place="margin">
